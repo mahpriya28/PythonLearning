@@ -1,0 +1,17 @@
+[{
+    "name": "John Doe",
+    "age": 30,
+    "city": "New York",
+    "contact": {
+        "email": "abc@123gmail.com",
+        "phone": "123-456-7890"
+    }
+}, {
+    "name": "Bob Smith",
+    "age": 30,
+    "city": "New York",
+    "contact": {
+        "email": "bob.smith@example.com",
+        "phone": "123-456-7800"
+    }
+}]

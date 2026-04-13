@@ -1,0 +1,16 @@
+import numpy as np
+
+arr = np.array([1,2,3,4])
+print(arr)
+print(type(arr))
+print(arr+2)
+print(arr*2)
+print(arr**2)
+print(arr/2)
+print(arr%2)
+print(arr//2)
+print(arr+arr)
+print(arr*arr)
+print(arr/arr)
+print(arr%arr)
+print(arr//arr)
